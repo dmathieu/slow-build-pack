@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1..600}
+for i in {1..4000}
 do
   echo `date`: $i
   sleep 1
